@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575071128796",
+    "project_id": "fir-test-execulia",
+    "storage_bucket": "fir-test-execulia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575071128796:android:09e58d3fa5f935ec2b3819",
+        "android_client_info": {
+          "package_name": "com.execulia.exceldiagnostics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575071128796-7rk7kg1v2tn7p4u8c8nlgjd9ju74libd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8u4O7qv1pcKxHYLQIqZi3ZvEm01ne000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575071128796-7rk7kg1v2tn7p4u8c8nlgjd9ju74libd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
