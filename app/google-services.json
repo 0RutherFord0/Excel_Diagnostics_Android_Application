@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "575071128796",
-    "project_id": "fir-test-execulia",
-    "storage_bucket": "fir-test-execulia.appspot.com"
+    "project_number": "834737885238",
+    "project_id": "excel-diagnostics-execulia",
+    "storage_bucket": "excel-diagnostics-execulia.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:575071128796:android:09e58d3fa5f935ec2b3819",
+        "mobilesdk_app_id": "1:834737885238:android:63bdd5b9d5260bcd420897",
         "android_client_info": {
           "package_name": "com.execulia.exceldiagnostics"
         }
       },
       "oauth_client": [
         {
-          "client_id": "575071128796-7rk7kg1v2tn7p4u8c8nlgjd9ju74libd.apps.googleusercontent.com",
+          "client_id": "834737885238-hv7glmu4lst8kj7t989mnf918bk505hs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB8u4O7qv1pcKxHYLQIqZi3ZvEm01ne000"
+          "current_key": "AIzaSyDU8FBRzBjaTsX0xTAyztybntas_dylWMI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "575071128796-7rk7kg1v2tn7p4u8c8nlgjd9ju74libd.apps.googleusercontent.com",
+              "client_id": "834737885238-hv7glmu4lst8kj7t989mnf918bk505hs.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
